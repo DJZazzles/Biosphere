@@ -30,14 +30,6 @@ border:7px solid rgb(143, 25, 183);
   font-family:'Trebuchet MS';
 }
 
-.constellationsdesc {
-
-    color: gold;
-    text-align:center;
-    font-size:22px;
-   text-shadow: 2px 2px black;
-}
-
 
 
 .spot {
@@ -98,21 +90,6 @@ color:green;
 
 
 
-
-
-
-
-
-.installationdesc {
-
-     text-align:center;
-    color: cyan;
-    text-shadow: 2px 2px black;
-    font-size: 22px;
-}
-
-
-
 .bass {
     
     border: 1px solid green;
@@ -138,6 +115,21 @@ border:5px solid green
     width:20px
 }
 
+.installationdesc {
+
+     text-align:center;
+    color: cyan;
+    text-shadow: 2px 2px black;
+    font-size: 22px;
+}
+
+.constellationsdesc {
+
+    color: gold;
+    text-align:center;
+    font-size:22px;
+   text-shadow: 2px 2px black;
+}
 
 .mene {
 
@@ -212,20 +204,18 @@ border:5px solid green
 <br>
    <br>
 <iframe style="border: 2px solid blue; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3684647698/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/mene">Mene by Starlight</a></iframe>
+    
+<div class="constellationsdesc">Constellations</div>
 <br>
-    <br>
-<div class="constellationsdesc">The first release by simulated Experimental Progressive Electronic Rock band Heuriskein!.</div>
 <br>
+<iframe style="border: 2px solid gold; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1039469337/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constellations">Constellations by Heuriskein</a></iframe>
    <br>
-<iframe style="border: 2px solid gold; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1039469337/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constellations">Constellations by Heuriskein</a></iframe>
-<br>
-    <br>
+   <br>
+
     <div class="installationdesc">Travel through the thematic soundscapes of Installation 2.5, <br> an experimental narrative filled with cerebral bass and <br> progressive intensity inspired by the world of Halo.</div>
 <br>
 <br>
 <iframe style="border: 2px solid cyan; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=243807916/size=large/bgcol=333333/linkcol=4ec5ec/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/installation-25">Installation 2.5 by Mendicant BIOS Labs</a></iframe>
-      
-    
    <br>
    <br>
 
