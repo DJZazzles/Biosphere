@@ -187,10 +187,10 @@ border:5px solid green
 </style>
 </head>
 <body class="Biopage">
-<center><img class="Biosphere" src="Cover_beta.png"></h1>
+<center><img class="Biosphere" src="Biosphere link pfp.png"></h1>
     <br>
 <br>
-<div class="Baize">A Farewell TO Rock</div>
+<div class="Baize">A Farewell To Rock</div>
 <br>
    <br>
 <iframe style="border: 2px solid blue; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=442873298/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constants-and-variables">Constants and Variables by Mendicant BIOS Labs</a></iframe>
@@ -200,12 +200,6 @@ border:5px solid green
 <br>
    <br>
 <iframe style="border: 2px solid brown; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=442873298/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constants-and-variables">Constants and Variables by Mendicant BIOS Labs</a></iframe>
-    <br>
-<br>
-<div class="Teleos">Ἁρμονικὰ στοιχεῖα</div>
-<br>
-   <br>
-<iframe style="border: 2px solid green; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1279950277/size=large/bgcol=333333/linkcol=2ebd35/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/teleos">Teleos by Heuriskein</a></iframe>
     <br>
 <br>
 <div class="Teleos">Ἁρμονικὰ στοιχεῖα</div>
@@ -223,10 +217,8 @@ border:5px solid green
 <div class="constellationsdesc">The first release by simulated Experimental Progressive Electronic Rock band Heuriskein!.</div>
 <br>
    <br>
-<div><iframe style="border: 2px solid gold; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1039469337/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constellations">Constellations by Heuriskein</a></iframe></div>
+<iframe style="border: 2px solid gold; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1039469337/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constellations">Constellations by Heuriskein</a></iframe></div>
 <br>
-    
-    </div>
     <br>
     <div class="installationdesc">Travel through the thematic soundscapes of Installation 2.5, <br> an experimental narrative filled with cerebral bass and <br> progressive intensity inspired by the world of Halo.:
 <br>
