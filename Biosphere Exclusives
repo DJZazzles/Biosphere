@@ -3,7 +3,7 @@
 <head>
    <meta charset="utf-8">   
 <title>
-Gomi
+Biosphere Exclusives
 </title>
 <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
       <link rel="shortcut icon" type="x-icon" href="Biosphere link pfp.png">
@@ -13,7 +13,7 @@ Gomi
 
 width:300px;
 
-border:7px solid rgb(12, 145, 0);
+border:7px solid rgb(143, 25, 183);
 }
 
 
@@ -105,44 +105,12 @@ color:green;
 
 
 
-.released {
-    font-size:30px;
-    text-align:center;
-    color:rgb(0, 218, 0);
-    text-shadow: 3px 2px black;
-}
 
 
-.grave {
-    font-size:20px;
-    text-align:center;
-    color:green;
-}
-.Bouquet {
-    
-    font-size:20px;
-    color:red
-}
 
-.Synth {
+.installationdesc {
 
-    font-size:20px
-}
-
-.Spotify {
-
-   width:70px;
-}
-
-.youtube {
-    width:110px;
-    margin-bottom:2px
-}
-
-
-.rfbdesc {
-
-
+    color: cyan;
     font-size:22px
 }
 
@@ -199,7 +167,7 @@ border:5px solid green
 }
 </style>
 </head>
-<body class="Gomipage">
+<body class="Biopage">
 <center><img class="Gomi" src="gomibanner.png"></h1>
     <br>
     
@@ -218,15 +186,11 @@ border:5px solid green
     
     </div>
     <br>
-    <div class="rfbdesc">Lose yourself to indulgent bass and experimental <br> lunacy with Rightfield Bass by gomi:
+    <div class="installationdesc">Travel through the thematic soundscapes of Installation 2.5, <br> an experimental narrative filled with cerebral bass and <br> progressive intensity inspired by the world of Halo.:
 <br>
 <br>
-<iframe style="border: 2px solid blue; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3215196051/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/rightfield-bass">Rightfield Bass by gomi</a></iframe>
-<br>
-       <br> 
-    <center><a class="spot" href="https://open.spotify.com/artist/6vM0bpd7NU8AHLu0d30MCo"><img class="spot" src="Spotify.png"></a>
-    
-    <a href="https://www.youtube.com/channel/UC-HAUClNgj9ovkKpcUFnimQ"><img  class="ytofficial" src="youtube.png"></a>
+<iframe style="border: 2px solid cyan; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=243807916/size=large/bgcol=333333/linkcol=4ec5ec/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/installation-25">Installation 2.5 by Mendicant BIOS Labs</a></iframe><br>
+      
     
    <br>
    <br>
