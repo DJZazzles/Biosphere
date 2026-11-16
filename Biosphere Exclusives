@@ -22,7 +22,7 @@ border:7px solid rgb(12, 145, 0);
    
  
 
-    background: url("gomi (Background).png") no-repeat center center fixed; 
+    background: url("Cover_beta.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -230,29 +230,7 @@ border:5px solid green
     
    <br>
    <br>
-    <div class="released"><strong>PREVIOUS RELEASES:</strong></div>
-    <br>
-    
-    
-    
-    <div>
-    
-        <iframe style="border: 0; width: 370px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3312476808/size=small/bgcol=333333/linkcol=fe7eaf/track=4175346422/transparent=true/" seamless><a href="https://abstractmachinemusic.bandcamp.com/album/amm-2-anachronism">AMM:2 -anachronism- by A.I.XIBIADES</a></iframe>
-    </div>
-    <div>
-        <iframe style="border: 0; width: 370px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2772799990/size=small/bgcol=333333/linkcol=2ebd35/transparent=true/" seamless><a href="https://abstractmachinemusic.bandcamp.com/album/the-graveyard-shift">The Graveyard Shift by A.I.XIBIADES</a></iframe>
-    
-    </div>
-    <div>
-        
-        <iframe style="border: 0; width: 370px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1463136053/size=small/bgcol=333333/linkcol=e99708/transparent=true/" seamless><a href="https://abstractmachinemusic.bandcamp.com/album/bouquet">Bouquet by A.l.XIBIADES</a></iframe> 
-    </div>
-    
-    <div>
-        <iframe style="border: 0; width: 370px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2543633023/size=small/bgcol=333333/linkcol=e32c14/track=1821175698/transparent=true/" seamless><a href="https://abstractmachinemusic.bandcamp.com/album/amm-1-fragments">AMM:1 -fragments- by A.l.XIBIADES</a></iframe>  
-    </div>
-    <iframe style="border: 0; width: 370px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2554112454/size=small/bgcol=333333/linkcol=9a64ff/transparent=true/" seamless><a href="https://aixibiades.bandcamp.com/album/synthetic-hearts">Synthetic Hearts by A.I.XIBIADES</a></iframe>
-    <br>
+
     
     <br>
     <div ><a style="color:rgb(223, 76, 101); text-shadow: 2px 2px rgb(19, 0, 0);" class="home" href="Main Page 1.1.html">Return</a></div>
