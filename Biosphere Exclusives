@@ -18,7 +18,7 @@ border:7px solid rgb(143, 25, 183);
 
 
 
-.Gomipage {
+.Biopage {
    
  
 
@@ -162,20 +162,44 @@ border:5px solid green
     
 }
 
-.trash {
+.CVB {
 
-    border: 3px solid purple;
+    color: brown;
+    font-size:22px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+
+    
+}
+
+.Baize {
+
+    color: blue;
+    font-size:22px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+
+    
 }
 
 
-.ytofficial {
 
-    width:90px;
-}
 </style>
 </head>
 <body class="Biopage">
 <center><img class="Biosphere" src="Cover_beta.png"></h1>
+    <br>
+<br>
+<div class="Baize">A Farewell TO Rock</div>
+<br>
+   <br>
+<iframe style="border: 2px solid blue; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=442873298/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constants-and-variables">Constants and Variables by Mendicant BIOS Labs</a></iframe>
+    <br>
+<br>
+<div class="CVB">An anthology of works inspired by a diverse collection of media over the span of two years.</div>
+<br>
+   <br>
+<iframe style="border: 2px solid brown; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=442873298/size=large/bgcol=333333/linkcol=e99708/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constants-and-variables">Constants and Variables by Mendicant BIOS Labs</a></iframe>
     <br>
 <br>
 <div class="Teleos">Ἁρμονικὰ στοιχεῖα</div>
