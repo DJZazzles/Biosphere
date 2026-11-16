@@ -8,7 +8,7 @@ Biosphere Exclusives
 <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
       <link rel="shortcut icon" type="x-icon" href="Biosphere link pfp.png">
 <style>
-.Gomi {
+.Biosphere {
 
 
 width:300px;
@@ -30,9 +30,9 @@ border:7px solid rgb(143, 25, 183);
   font-family:'Trebuchet MS';
 }
 
-.bio {
+.constellationsdesc {
 
-    color: rgb(255, 91, 118);
+    color: gold;
     text-align:center;
     font-size:22px;
    text-shadow: 2px 2px black;
@@ -96,12 +96,7 @@ color:green;
     font-size:50px;
 }
 
-.rfbdesc{
-    text-align:center;
-    color:rgb(0, 140, 255);
-    text-shadow: 2px 2px black;
-    font-size: 22px;
-}
+
 
 
 
@@ -110,8 +105,10 @@ color:green;
 
 .installationdesc {
 
+     text-align:center;
     color: cyan;
-    font-size:22px
+    text-shadow: 2px 2px black;
+    font-size: 22px;
 }
 
 
@@ -142,14 +139,24 @@ border:5px solid green
 }
 
 
-.trashfolder {
+.mene {
 
-    color:rgb(0, 207, 0);
+    color: blue;
 
     font-size:22px;
 
     text-align: center;
 
+    text-shadow: 2px 2px black;
+
+    
+}
+
+.Teleos {
+
+    color: green;
+    font-size:22px;
+    text-align: center;
     text-shadow: 2px 2px black;
 
     
@@ -168,20 +175,31 @@ border:5px solid green
 </style>
 </head>
 <body class="Biopage">
-<center><img class="Gomi" src="gomibanner.png"></h1>
+<center><img class="Biosphere" src="Cover_beta.png"></h1>
     <br>
-    
 <br>
-<div class="trashfolder">Float through gomi's electronic experiments <br> on this short and entrancing bass-filled adventure:</div>
+<div class="Teleos">Ἁρμονικὰ στοιχεῖα</div>
 <br>
    <br>
-<iframe style="border: 2px solid rgb(1, 165, 1); width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3539389653/size=large/bgcol=333333/linkcol=2ebd35/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/trash-folder">trash folder by gomi</a></iframe>
-<br>
+<iframe style="border: 2px solid green; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1279950277/size=large/bgcol=333333/linkcol=2ebd35/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/teleos">Teleos by Heuriskein</a></iframe>
     <br>
-<div class="bio">Experience the auditory adventures of Kame-chan <br> through the digital land of four seasons created by Gomi.</div>
+<br>
+<div class="Teleos">Ἁρμονικὰ στοιχεῖα</div>
 <br>
    <br>
-<div ><iframe class="fourseasons" style="border: 3px solid rgb(228, 39, 70); width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=2978450365/size=large/bgcol=333333/linkcol=fe7eaf/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/the-four-seasons">THE FOUR SEASONS by gomi</a></iframe></div>
+<iframe style="border: 2px solid green; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=1279950277/size=large/bgcol=333333/linkcol=2ebd35/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/teleos">Teleos by Heuriskein</a></iframe>
+<br>    
+<br>
+<div class="mene">A positive message coated in 3 layers of distortion, <br> with a dash of prog-rock and adolescent fire.</div>
+<br>
+   <br>
+<iframe style="border: 2px solid blue; width: 400px; height: 307px;" src="https://bandcamp.com/EmbeddedPlayer/album=3684647698/size=large/bgcol=333333/linkcol=0f91ff/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/mene">Mene by Starlight</a></iframe>
+<br>
+    <br>
+<div class="constellationsdesc">The first release by simulated Experimental Progressive Electronic Rock band Heuriskein!.</div>
+<br>
+   <br>
+<div><iframe style="border: 2px solid gold; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1039469337/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://mendicantbioslabs.bandcamp.com/album/constellations">Constellations by Heuriskein</a></iframe></div>
 <br>
     
     </div>
